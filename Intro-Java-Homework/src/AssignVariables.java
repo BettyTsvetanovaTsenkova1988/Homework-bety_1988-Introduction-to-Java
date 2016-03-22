@@ -13,13 +13,13 @@ public class AssignVariables {
         short numberSix = 32767;
 
         System.out.println(check);
-        System.out.println(text);
-        System.out.println(numberOne);
-        System.out.println(numberTwo);
-        System.out.println(numberThree);
-        System.out.println(numberFour);
-        System.out.println(numberFive);
-        System.out.println(numberSix);
-        System.out.println(character);
+        //System.out.println(text);
+       // System.out.println(numberOne);
+       // System.out.println(numberTwo);
+       // System.out.println(numberThree);
+       // System.out.println(numberFour);
+      //  System.out.println(numberFive);
+       // System.out.println(numberSix);
+       // System.out.println(character);
     }
 }
